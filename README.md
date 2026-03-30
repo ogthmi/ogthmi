@@ -46,7 +46,21 @@ Technologies:
 * Frontend: ReactJS, Bootstrap
 * Backend: Spring Boot
 * Database: MySQL
-* Others: RabbitMQ, Redis, Docker, Postman
+* Others: Postman
+
+### TROSIVI
+
+https://github.com/ogthmi/TROSIVI
+
+A room management module for room rental systems for undergraduates.
+Focuses on handling room bookings, contracts, and monthly payments, including utilities (electricity, water, rent, services), as well as customer and revenue statistics.
+
+Technologies:
+
+* Frontend: ReactJS, Material UI
+* Backend: Spring Boot (Spring Cloude for API Gateway, Netflix Eureka)
+* Database: PostgreSQL
+* Others: Redis, Postman
 
 ## Academic Projects at PTIT
 
