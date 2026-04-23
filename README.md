@@ -1,66 +1,76 @@
 # Hello! I'm Minh
 
-> Slogan: ALWAYS SHINE
+> ALWAYS SHINE
 
-Welcome to my GitHub profile.
+Software Engineering student at PTIT (Hanoi), focused on Android (Kotlin), Backend (Spring Boot), and Web development.
 
-I am a developer who is passionate about Java and web technologies. Currently, I am learning, practicing, and sharing basic network programming exercises.
 
-## About Me
-
-* Student at PTIT (Posts and Telecommunications Institute of Technology, Hanoi), majoring in Information Technology (Software Engineering)
-* Interested in languages:
-
-  * Enjoy learning English, TOEIC score: 750 (Aug 2024)
-* Areas of interest:
-
-  * Java, Web Backend, Spring Boot, ReactJS
-* Currently learning:
-
-  * Network programming with Java (TCP, UDP, RMI)
-  * Web development: backend with Spring Boot, frontend with ReactJS
-  * Writing unit tests and improving code quality
-* Goals:
-
-  * Build a strong foundation in Java core, Spring Boot, and development tools
-  * Participate in real-world projects
 
 ## Technical Skills
 
-* Languages: Java
-* Frontend: ReactJS, Material UI, Bootstrap
-* Backend: Spring Boot 3, JWT
-* Databases: MySQL, PostgreSQL
-* Tools: Git, Postman
+**Languages:** Java, Kotlin  
+**Mobile:** Android (MVVM, Room, Retrofit, Coroutines, Flow)  
+**Backend:** Spring Boot, JWT  
+**Frontend:** ReactJS, Material UI  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git, Postman  
 
 ## Featured Projects
 
-### CHEKZAM
+### CINEMAX
+https://github.com/ogthmi/cinemax
 
-https://github.com/ogthmi/CHEKZAM
+Offline Android movie booking application simulating real-world ticket reservation with transaction-safe seat management and structured local database design.
 
-An online classroom and quiz management system.
+- Built full booking flow from browsing movies to ticket management
+- Implemented seat reservation system using Room transactions to prevent double booking
+- Designed multi-entity database structure (movies, theaters, showtimes, seats, tickets)
+- Developed responsive UI with lifecycle-aware components
 
-Technologies:
+**Tech:** Kotlin, MVVM, Room, Coroutines, LiveData, Navigation Component, RecyclerView
 
-* Frontend: ReactJS, Bootstrap
-* Backend: Spring Boot
-* Database: MySQL
-* Others: Postman
+---
+
+### TamangFoodService (Team Project)
+https://github.com/ogthmi/TamangFoodService/tree/develop
+
+Android food delivery application focused on scalable architecture and reactive state management using Kotlin Flow.
+
+- Implemented authentication and user session management
+- Managed UI state using Kotlin Flow with ViewModel
+- Integrated RESTful APIs using Retrofit and OkHttp
+- Developed features including profile, orders, favorites, and reviews
+- Collaborated using Git workflow in a team-based environment
+
+**Tech:** Kotlin, MVVM, Flow, Retrofit, OkHttp, Git
+
+---
 
 ### TROSIVI
-
 https://github.com/ogthmi/TROSIVI
 
-A room management module for room rental systems for undergraduates.
-Focuses on handling room bookings, contracts, and monthly payments, including utilities (electricity, water, rent, services), as well as customer and revenue statistics.
+Room rental management system for student housing with focus on booking, contracts, and billing management.
 
-Technologies:
+- Built room booking and contract management features
+- Designed system for monthly billing and utility tracking (electricity, water, rent, services)
+- Implemented revenue and customer statistics modules
+- Followed layered backend architecture for scalability
 
-* Frontend: ReactJS, Material UI
-* Backend: Spring Boot (Spring Cloude for API Gateway, Netflix Eureka)
-* Database: PostgreSQL
-* Others: Redis, Postman
+**Tech:** Spring Boot, PostgreSQL, ReactJS, Material UI, Eureka
+
+---
+
+### CHEKZAM
+https://github.com/ogthmi/CHEKZAM
+
+Built role-based quiz and classroom management system with exam creation and grading workflow.
+
+- Built quiz management and grading features
+- Implemented role-based system for students and teachers
+- Developed REST APIs for backend services
+
+**Tech:** Spring Boot, ReactJS, MySQL, Bootstrap  
+
 
 ## Academic Projects at PTIT
 
@@ -69,7 +79,7 @@ Technologies:
 https://github.com/ogthmi/PTIT-ppt-template
 
 Simple PowerPoint templates for technical presentations.
-(May not be suitable for business-related presentations due to its minimal design.)
+(May not be suitable for economic-student-related presentations due to its minimal design.)
 
 ### Java Network Programming Assignment
 
