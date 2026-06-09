@@ -46,20 +46,6 @@ Android food delivery application focused on scalable architecture and reactive 
 
 ---
 
-### TROSIVI
-https://github.com/ogthmi/TROSIVI
-
-Room rental management system for student housing with focus on booking, contracts, and billing management.
-
-- Built room booking and contract management features
-- Designed system for monthly billing and utility tracking (electricity, water, rent, services)
-- Implemented revenue and customer statistics modules
-- Followed layered backend architecture for scalability
-
-**Tech:** Spring Boot, PostgreSQL, ReactJS, Material UI, Eureka
-
----
-
 ### CHEKZAM
 https://github.com/ogthmi/CHEKZAM
 
@@ -70,28 +56,6 @@ Built role-based quiz and classroom management system with exam creation and gra
 - Developed REST APIs for backend services
 
 **Tech:** Spring Boot, ReactJS, MySQL, Bootstrap  
-
-
-## Academic Projects at PTIT
-
-### PTIT PowerPoint Template
-
-https://github.com/ogthmi/PTIT-ppt-template
-
-Simple PowerPoint templates for technical presentations.
-(May not be suitable for economic-student-related presentations due to its minimal design.)
-
-### Java Network Programming Assignment
-
-https://github.com/ogthmi/Java-NP-Assignment
-
-Java network programming exercises including TCP, UDP, RMI, and basic client-server Web Services.
-
-### IoT Fire Alarm System
-
-https://github.com/ogthmi/IOT-N08-SImpleFireAlarmSysttem
-
-A simple fire alarm system using ESP32 integrated with Android and Firebase.
 
 ## Contact
 
